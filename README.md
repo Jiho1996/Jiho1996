@@ -1,4 +1,10 @@
-### Hi there 👋
+## Jiho Park 👋
+### I am
+- 🌱 I’m currently learning Android, Java, Kotlin.
+- 👯 I’m looking to collaborate on some groups
+- 🤔 I’m looking for help with other developers
+- 💬 Ask me about anything.  
+
 
 <!--
 **Jiho1996/Jiho1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
