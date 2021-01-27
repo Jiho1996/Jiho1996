@@ -1,6 +1,6 @@
 ## Jiho Park 👋
 ### I am
-- 🌱 I’m currently learning Android, Java, Kotlin.
+- 🌱 I’m currently learning Android, Java, Kotlin, Python.
 - 👯 I’m looking to collaborate on some groups
 - 🤔 I’m looking for help with other developers
 - 💬 Ask me about anything.  
