@@ -1,4 +1,4 @@
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/Jiho1996/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?Jiho1996=Jiho1996)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Jiho Park 👋
 ### I am
