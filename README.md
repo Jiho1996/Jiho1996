@@ -4,6 +4,9 @@
 - 🤔 I’m looking for help with other developers
 - 💬 Ask me about anything.  
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jiho1996.tistory.com/)](https://jiho1996.tistory.com/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiho.urssu@gmail.com)](mailto:jiho.urssu@gmail.com)
+
 
 <!--
 **Jiho1996/Jiho1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
