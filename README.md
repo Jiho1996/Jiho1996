@@ -6,10 +6,10 @@
 <p align ="center">Techs that I'm currently learning <b>Kotlin, Python, C++, CSS, Django, Javascript</b> </p>
 
 
-<p align="center">
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jiho1996.tistory.com/)](https://jiho1996.tistory.com/)
  [![Mail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhp9270@naver.com)](mailto:jhp9270@naver.com)
-</p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiho1996)](https://github.com/anuraghazra/github-readme-stats)
 
