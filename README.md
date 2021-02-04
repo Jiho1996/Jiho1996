@@ -2,9 +2,10 @@
 
 ## Jiho Park 👋
 ### I am
-- 🌱 I’m currently learning Android, Java, Kotlin, Python.
-- 🤔 I’m looking for help with other developers
-- 💬 Ask me about anything.  
+<h3 align="center">Tech Stack</h3>
+<p align ="center">Techs that I'm currently learning Kotlin, Python, C++, CSS, Django, Javascript </p>
+
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jiho1996.tistory.com/)](https://jiho1996.tistory.com/)
  [![Mail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhp9270@naver.com)](mailto:jhp9270@naver.com)
