@@ -1,7 +1,7 @@
 
 
 ## Jiho Park 👋
-### I am
+
 <h3 align="center">Tech Stack</h3>
 <p align ="center">Techs that I'm currently learning Kotlin, Python, C++, CSS, Django, Javascript </p>
 
