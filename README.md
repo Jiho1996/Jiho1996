@@ -5,6 +5,7 @@
 <h3 align="center"><b>Tech Stack</b></h3>
 <p align ="center">Techs that I'm currently learning <b>Kotlin, Python, JAVA, C++, CSS, Django, Javascript</b> </p>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiho1996&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jiho1996.tistory.com/)](https://jiho1996.tistory.com/)
