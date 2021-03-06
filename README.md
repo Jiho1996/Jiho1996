@@ -1,7 +1,7 @@
 
 
 ## Jiho Park 👋
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=park_jiho)](https://solved.ac/park_jiho)
 
 
 
