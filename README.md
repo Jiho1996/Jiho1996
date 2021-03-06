@@ -1,8 +1,6 @@
 
 
 ## Jiho Park 👋
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=park_jiho)](https://solved.ac/park_jiho)
-
 
 
 <h3 align="center"><b>Tech Stack</b></h3>
