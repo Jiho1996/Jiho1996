@@ -1,6 +1,8 @@
 
 
 ## Jiho Park 👋
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=park_jiho&show_icons=true)
+
 
 <h3 align="center"><b>Tech Stack</b></h3>
 <p align ="center">Techs that I'm currently learning <b>Kotlin, Python, JAVA, C++, CSS, Django, Javascript</b> </p>
