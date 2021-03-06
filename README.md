@@ -1,7 +1,8 @@
 
 
 ## Jiho Park 👋
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=park_jiho&show_icons=true)
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+
 
 
 <h3 align="center"><b>Tech Stack</b></h3>
